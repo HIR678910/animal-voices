@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(136, 249, 213);
+    text-align: center;
+    color: rgb(79, 28, 246);
+    font-family: 'Are You Serious', cursive;
+}
+
+#btn1{
+width: 300px;
+height: 30px;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: rgb(246, 206, 255);
+border-radius: 10px;
+color: rgb(249, 60, 161);
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    background-color: rgb(136, 249, 213);
+    color: rgb(79, 28, 246);
+    text-align: center;
+    line-height: 3;
+    bottom: 0;
+    font-size: 25px;
+}
+
+.header_div
+{
+    background-color: rgb(67, 250, 195);
+}
+
+#note
+{
+font-size: 25px;
+
+}
+
+h2
+{
+    font-size: 35px;
+}
